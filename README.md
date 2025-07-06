@@ -94,5 +94,5 @@ Our Python model simulates the optimization of coating formulations by balancing
 
 __This might find funny but we made a logo for our project too__<br>
 <div align="center">
-    <img src="logo.png" height=50px style="border-radius:10%;">
+    <img src="logo.png" height=20px style="border-radius:10%;">
 </div>
